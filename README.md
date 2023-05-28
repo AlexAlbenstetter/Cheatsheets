@@ -1,8 +1,9 @@
 # Cheatsheets
-### In this repository I document frequently used or not so frequently used things for Linux Shell, Python, SQL, Nginx, OpenSSL etc.  The cheatsheets are meant to be a quick and easy lookup tool. Whenever I come across something that I find useful, I add it to the documents. 
+Check out my cheatsheets (https://github.com/AlexAlbenstetter/Cheatsheets.wiki.git) on various topics:
 
-#### Overview
-|--> Linux Shell
-|--> Nginx
-|--> OpenSSL
-|--> Others
+|- Linux Shell
+|- Python
+|- Nginx
+|- OpenSSL
+|- Docker
+|- SQL
